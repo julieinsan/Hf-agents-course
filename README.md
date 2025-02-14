@@ -95,3 +95,21 @@ Types of Actions:
 * Communication: Engage with user via chat or collab with other agents
 
 ![image](https://github.com/user-attachments/assets/77fc2bb0-9573-44e4-9aac-07413b7315eb)
+
+## Observe: Integrating Feedback to Reflect and Adapt
+
+In observation phase, agent
+
+* Collects Feedback: Receives data or confirmation that its action was successful
+* Appends Results: integrates new info into its existing context
+* Adapts strategy: uses the updated context to refine subsequent thoughts and actions
+
+## Agent Libraries
+
+* smolagents
+* LangGraph
+* LangChain
+* LLamaIndex
+
+I worked on [this](https://colab.research.google.com/drive/1JdsPQO34rU7maB-DZySbyqMgTQIdhHXF?usp=sharing) Colab notebook
+  
