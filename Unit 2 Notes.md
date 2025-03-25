@@ -25,4 +25,15 @@ It's simple, works with any LLM through integration with HF tools and external A
 
 
 
+
+
 ![image](https://github.com/user-attachments/assets/5cb2ff81-86ee-448e-9aed-3583e1fc934e)
+
+## Why Code Agents?
+
+<button />
+
+
+
+
+
