@@ -31,7 +31,7 @@ It's simple, works with any LLM through integration with HF tools and external A
 
 ## Why Code Agents?
 
-[<img src="https://cdn-icons-png.flaticon.com/512/2883/2883482.png" width="25"]()
+[<img src="https://cdn-icons-png.flaticon.com/512/2883/2883482.png" width="25" />]()
 
 
 
