@@ -31,6 +31,14 @@ It's simple, works with any LLM through integration with HF tools and external A
 
 ## Why Code Agents?
 
+Research shows that tool-calling LLMs work more effectively with code directly rather than parsing JSON to determine which tool to use. 
+
+Advantages:
+
+* **Composability**: Easily combine and reuse actions
+* **Object Management**: Work directly with complex structures like images
+* **Generality**: Express any computationally possible task
+* **Natural for LLMs**: High-quality code is already present in the LLM training data.
 [<img src="https://cdn-icons-png.flaticon.com/512/2883/2883482.png" width="25" />]()
 
 
